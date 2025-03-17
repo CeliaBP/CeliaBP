@@ -16,7 +16,7 @@ I'm a full Stack Developer freshly out of a bootcamp with experience in JavaScri
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/celia-bernal-porcar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/celia-bernal-porcar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/celia-bernal-porcar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/celia-bernal-porcar" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>

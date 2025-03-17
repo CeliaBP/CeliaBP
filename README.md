@@ -12,6 +12,11 @@ I'm a full Stack Developer freshly out of a bootcamp with experience in JavaScri
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## 🌍 Languajes
+
+- Spanish – Native
+- English – Fluent
+- Catalan – Native
 
 
 <h2 align="left">Connect with me:</h2>
